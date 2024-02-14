@@ -3,4 +3,5 @@ remote --v
 remote set-url --add origin https:token url name 
 
 git push origin main
+git add 
 
